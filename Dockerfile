@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-proxy:v1.20.15
+FROM k8s.gcr.io/kube-cross:v1.24.0-go1.18.1-bullseye.0
 MAINTAINER Q
